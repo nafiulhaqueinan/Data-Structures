@@ -47,10 +47,6 @@ int main(){
 	freopen("input.txt","r",stdin);
 	freopen("output.txt","w",stdout);
 #endif
-	// int n;
-	// cout<<"Input the Size of Stack : ";cin>>n;
-	// stack[n];
-	// int i=0;
 
 	Stack s;
 	s.push(10);
